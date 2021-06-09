@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RogueApe a self-taught Junior Web Developer.
+- 👋 Hi, I’m VP Liew. A self-taught Junior Web Developer.
 - 👀 I’m interested in learning more any advanced web technologies and iOS/Android development.
 - 🌱 I’m currently focusing on learning vanilla JavaScript and ReactJS, as well as other programming languages during my spare times.
 - 💞️ I’m looking to collaborate on ...
