@@ -1,8 +1,7 @@
 - 👋 Hi, I’m VP Liew. A self-taught Junior Web Developer from Malaysia.
 - 👀 I’m interested in learning any advanced web technologies and including mobile app development.
 - 🌱 I’m currently focusing on learning vanilla JavaScript and ReactJS, as well as other programming languages during my spare times.
--
-- 📫 You may reach me by clicking the link below:
+- 📫 You may reach me by clicking the linkedin link below:
 - https://www.linkedin.com/in/vp-liew-903979170/
 
 <!---
